@@ -3,7 +3,7 @@
 ##
 
 
-- 🌱 Estudndo Java e o framework Spring.
+- 🌱 Estudando Java e o framework Spring.
 
 
 ##
