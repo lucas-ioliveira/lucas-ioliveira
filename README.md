@@ -3,7 +3,7 @@
 ##
 
 
-- 🌱 Estudando Python.
+- 🌱 Estudando tecnologias com foco para o Back-End.
 
 
 ##
@@ -19,6 +19,7 @@
   <div style="display: inline_block">
   
   <img align="center" alt="Lucas-PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
+  <img align="center" alt="Lucas-CSHARP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg">        
   <img align="center" alt="Lucas-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">        
   <img align="center" alt="Lucas-JUPYTER" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">       
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
