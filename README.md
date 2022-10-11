@@ -3,7 +3,7 @@
 ##
 
 
-- 🌱 Estudando tecnologias com foco para o Back-End.
+- 🌱 Estudando tecnologias com foco para o desenvolvimento web.
 
 
 ##
