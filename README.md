@@ -69,7 +69,7 @@ Aqui você confere todos os meus projetos e arquivos de estudos.
         <td><img align="center" alt="Lucas-Java" height="30" width="40"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/></td>    
         <td><img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></td>
         <td><img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></td>
-        <td><img align="center" alt="Lucas-CSS" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/></td>
+        <td><img align="center" alt="Lucas-BOOTSTRAP" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/></td>
   </tr>
 </table>
 
