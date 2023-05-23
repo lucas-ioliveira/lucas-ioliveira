@@ -1,5 +1,5 @@
 ## GITHUB DE LUCAS OLIVEIRA
-Desenvolvedor Python Jr e estudante de tecnologia.<br>
+Desenvolvedor back-end Python Jr e estudante de tecnologia.<br>
 Aqui você confere todos os meus projetos e arquivos de estudos.
 <br>
 <hr>
@@ -10,7 +10,7 @@ Aqui você confere todos os meus projetos e arquivos de estudos.
 - São Paulo, SP - Brasil <br>
 - 🎓 Estudante de Tecnologia na UNICID - Análise de Desenvolvimento de Sistemas (atualmente cursando)<br> 
 - 💻 Atualmente trabalhando como desenvolvedor Python Jr na LionX (Banco Original)<br>
-- 🎓 Estudando Java
+- 🎓 Estudando Python em paralelo segurança da informação utilizando o Python.
 <br> 
 
 <hr>
@@ -34,10 +34,6 @@ Aqui você confere todos os meus projetos e arquivos de estudos.
 <!-- REPO-POST-LIST:END -->
 <hr>
 
-#### Estudos em Java
-
-- [Repo com resoluções de alguns exercícios ](https://github.com/lucas-ioliveira/javaBasico)
-
 
 ### CONTATE-ME:
 
@@ -54,8 +50,7 @@ Aqui você confere todos os meus projetos e arquivos de estudos.
     <tr>
           <th>Python</th>
           <th>Fast API</th>
-          <th>Django</th> 
-          <th>Java</th>
+          <th>Django</th>
           <th>MongoDB</th>
           <th>SQLite</th>
           <th>MySql</th>
@@ -67,8 +62,7 @@ Aqui você confere todos os meus projetos e arquivos de estudos.
    <tr> 
         <td><img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></td>     
         <td><img align="center" alt="Lucas-fastapi" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"></td>
-        <td><img align="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"></td>
-         <td><img align="center" alt="Lucas-Java" height="30" width="40"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/></td>  
+        <td><img align="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"></td> 
         <td><img align="center" alt="Lucas-mongo" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></td>
         <td><img align="center" alt="Lucas-CSS" height="30" width="50" src=https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white></td>
         <td><img align="center" alt="Lucas-mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></td>  
