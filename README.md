@@ -10,7 +10,7 @@ Aqui você confere todos os meus projetos e arquivos de estudos.
 - São Paulo, SP - Brasil <br>
 - 🎓 Estudante de Tecnologia na UNICID - Análise de Desenvolvimento de Sistemas (atualmente cursando)<br> 
 - 💻 Atualmente trabalhando como desenvolvedor Python Jr na LionX (Banco Original)<br>
-- 🎓 Estudando Python em paralelo segurança da informação utilizando o Python.
+- 🎓 Estudando programação web com Python e o framework Django.
 <br> 
 
 <hr>
