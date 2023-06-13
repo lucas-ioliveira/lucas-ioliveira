@@ -18,11 +18,11 @@ Aqui você confere todos os meus projetos e arquivos de estudos.
 ### REPOSITÓRIOS EM DESTAQUES:
 
 <!-- REPO-POST-LIST:START -->
-#### Projeto Fullstack
+#### Projeto back-end em Python com framework Django
 - [Agenda de contatos - Framework Django](https://github.com/lucas-ioliveira/agenda_contatos_django)
 
 
-#### Projetos back-end em Python
+#### Projetos back-end em Python com o framework FastAPI
 
 - [API Gerador de senhas fortes - FastAPI ](https://github.com/lucas-ioliveira/gerador_senhas_fast_api)
 - [API- Sistema de batalhas de pokemons - FastAPI](https://github.com/lucas-ioliveira/pokemon_battle_fast_api)
