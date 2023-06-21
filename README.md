@@ -28,6 +28,12 @@ Aqui você confere todos os meus projetos e arquivos de estudos.
 - [API- Sistema de batalhas de pokemons - FastAPI](https://github.com/lucas-ioliveira/pokemon_battle_fast_api)
 - [API- sistema de autenticação de usuários - FastAPI](https://github.com/lucas-ioliveira/fast_api_autenticacao)
 
+
+#### Projetos em Python 
+
+- [Automação de tarefa ](https://github.com/lucas-ioliveira/automation_windows)
+
+
 #### Projetos front-end em Html 5 e Css 3
 - [StarFlix](https://github.com/lucas-ioliveira/star_flix)
 - [Recurso Digital](https://github.com/lucas-ioliveira/recurso_digital)
