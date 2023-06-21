@@ -19,7 +19,9 @@ Aqui você confere todos os meus projetos e arquivos de estudos.
 
 <!-- REPO-POST-LIST:START -->
 #### Projeto back-end em Python com framework Django
+
 - [Agenda de contatos - Framework Django](https://github.com/lucas-ioliveira/agenda_contatos_django)
+- [Tec Blog - Framework Django](https://github.com/lucas-ioliveira/project_tec_blog)
 
 
 #### Projetos back-end em Python com o framework FastAPI
@@ -35,6 +37,7 @@ Aqui você confere todos os meus projetos e arquivos de estudos.
 
 
 #### Projetos front-end em Html 5 e Css 3
+
 - [StarFlix](https://github.com/lucas-ioliveira/star_flix)
 - [Recurso Digital](https://github.com/lucas-ioliveira/recurso_digital)
 <!-- REPO-POST-LIST:END -->
