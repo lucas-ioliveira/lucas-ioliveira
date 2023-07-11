@@ -9,7 +9,7 @@ Aqui você confere todos os meus projetos e arquivos de estudos.
 - 26 anos<br>
 - São Paulo, SP - Brasil <br>
 - 🎓 Estudante de Tecnologia na UNICID - Análise de Desenvolvimento de Sistemas (atualmente cursando)<br> 
-- 💻 Atualmente trabalhando como desenvolvedor Python Jr na Liga Invest (PicPay S.A)<br>
+- 💻 Atualmente trabalhando como desenvolvedor Python Jr na OnGame<br>
 - 🎓 Estudando programação web com Python e o framework Django.
 <br> 
 
