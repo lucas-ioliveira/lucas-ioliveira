@@ -9,8 +9,8 @@ Aqui você confere todos os meus projetos e arquivos de estudos.
 - 26 anos<br>
 - São Paulo, SP - Brasil <br>
 - 🎓 Estudante de Tecnologia na UNICID - Análise de Desenvolvimento de Sistemas (atualmente cursando)<br> 
-- 💻 Atualmente trabalhando como desenvolvedor Python Jr na OnGame<br>
-- 🎓 Estudando programação web com Python e o framework Django.
+- 💻 Atualmente trabalhando como desenvolvedor Python Jr na OnGame Entretenimento<br>
+- 🎓 Estudando programação mobile android com Java.
 <br> 
 
 <hr>
@@ -58,11 +58,11 @@ Aqui você confere todos os meus projetos e arquivos de estudos.
 <table style="text-align: center">        
     <tr>
           <th>Python</th>
-          <th>Fast API</th>
           <th>Django</th>
-          <th>MongoDB</th>
+          <th>Fast API</th>
           <th>SQLite</th>
           <th>MySql</th>
+          <th>MongoDB</th>
           <th>HTML</th>
           <th>CSS</th>
           <th>BOOTSTRAP</th>
@@ -70,11 +70,11 @@ Aqui você confere todos os meus projetos e arquivos de estudos.
    </tr>
    <tr> 
         <td><img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></td>     
+        <td><img align="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"></td>
         <td><img align="center" alt="Lucas-fastapi" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"></td>
-        <td><img align="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"></td> 
-        <td><img align="center" alt="Lucas-mongo" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></td>
-        <td><img align="center" alt="Lucas-CSS" height="30" width="50" src=https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white></td>
+        <td><img align="center" alt="Lucas-SQLITE" height="30" width="50" src=https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white></td>
         <td><img align="center" alt="Lucas-mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></td>  
+        <td><img align="center" alt="Lucas-mongo" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></td>
         <td><img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></td>
         <td><img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></td>
         <td><img align="center" alt="Lucas-BOOTSTRAP" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/></td>
