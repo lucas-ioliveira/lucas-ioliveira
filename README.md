@@ -63,6 +63,8 @@ Aqui você confere todos os meus projetos e arquivos de estudos.
           <th>SQLite</th>
           <th>MySql</th>
           <th>MongoDB</th>
+          <th>Java</th>
+          <th>Android Studio</th>
           <th>HTML</th>
           <th>CSS</th>
           <th>BOOTSTRAP</th>
@@ -75,6 +77,9 @@ Aqui você confere todos os meus projetos e arquivos de estudos.
         <td><img align="center" alt="Lucas-SQLITE" height="30" width="50" src=https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white></td>
         <td><img align="center" alt="Lucas-mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></td>  
         <td><img align="center" alt="Lucas-mongo" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></td>
+        <td><img align="center" alt="Lucas-Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/></td>
+        <td><img align="center" alt="Lucas-Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg"/></td>
+          
         <td><img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></td>
         <td><img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></td>
         <td><img align="center" alt="Lucas-BOOTSTRAP" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/></td>
