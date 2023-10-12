@@ -63,8 +63,6 @@ Aqui você confere todos os meus projetos e arquivos de estudos.
           <th>SQLite</th>
           <th>MySql</th>
           <th>MongoDB</th>
-          <th>NodeJS</th>
-          <th>ExpressJS</th>
           <th>HTML</th>
           <th>CSS</th>
           <th>BOOTSTRAP</th>
