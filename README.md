@@ -55,6 +55,9 @@ Aqui você confere todos os meus projetos e arquivos de estudos.
 
 ### TECNOLOGIAS:
 
+#### BACK-END
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+
 <table style="text-align: center">        
     <tr>
           <th>Python</th>
@@ -80,6 +83,8 @@ Aqui você confere todos os meus projetos e arquivos de estudos.
         <td><img align="center" alt="Lucas-BOOTSTRAP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/></td>
   </tr>
 </table>
+
+
 
 <hr>
 
