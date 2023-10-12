@@ -56,7 +56,7 @@ Aqui você confere todos os meus projetos e arquivos de estudos.
 ### TECNOLOGIAS:
 
 #### BACK-END
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img align="center" alt="Lucas-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 
 <table style="text-align: center">        
     <tr>
