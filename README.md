@@ -54,8 +54,6 @@ Aqui você confere todos os meus projetos e arquivos de estudos.
 <hr>
 
 ### TECNOLOGIAS:
-
-<div display="inline">
   
 #### BACK-END
 
@@ -79,7 +77,7 @@ Aqui você confere todos os meus projetos e arquivos de estudos.
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img align="center" alt="Lucas-BOOTSTRAP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
   </div>
-  </div>
+  
 <hr>
 
 ### MINHAS ESTATISTICAS: <br>
