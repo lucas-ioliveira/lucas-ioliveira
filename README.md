@@ -56,10 +56,11 @@ Aqui você confere todos os meus projetos e arquivos de estudos.
 ### TECNOLOGIAS:
 
 #### BACK-END
-
-<img align="center" alt="Lucas-Python" height="30" width="40" float="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<div display="inline">
+<img align="center" alt="Lucas-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 <img align="center" alt="Lucas-django"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
 <img align="center" alt="Lucas-fastapi"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
+</div>
 
 #### BANCO DE DADOS
  <img align="center" alt="Lucas-SQLITE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
