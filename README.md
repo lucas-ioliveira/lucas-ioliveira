@@ -77,35 +77,7 @@ Aqui você confere todos os meus projetos e arquivos de estudos.
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img align="center" alt="Lucas-BOOTSTRAP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
   </div>
-
-<table style="text-align: center">        
-    <tr>
-          <th>Python</th>
-          <th>Django</th>
-          <th>Fast API</th>
-          <th>SQLite</th>
-          <th>MySql</th>
-          <th>MongoDB</th>
-          <th>HTML</th>
-          <th>CSS</th>
-          <th>BOOTSTRAP</th>
-          
-   </tr>
-   <tr> 
-        <td><img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"</td>     
-        <td><img align="center" alt="Lucas-django"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/></td>
-        <td><img align="center" alt="Lucas-fastapi"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/></td>
-        <td><img align="center" alt="Lucas-SQLITE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/></td>
-        <td><img align="center" alt="Lucas-mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/></td>  
-        <td><img align="center" alt="Lucas-mongo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/></td>
-        <td><img align="center" alt="Lucas-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></td>
-        <td><img align="center" alt="Lucas-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></td>
-        <td><img align="center" alt="Lucas-BOOTSTRAP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/></td>
-  </tr>
-</table>
-
-
-
+  
 <hr>
 
 ### MINHAS ESTATISTICAS: <br>
