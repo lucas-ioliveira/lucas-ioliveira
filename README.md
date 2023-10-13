@@ -62,8 +62,8 @@ Aqui você confere todos os meus projetos e arquivos de estudos.
 
 #### BANCO DE DADOS
  <img align="center" alt="Lucas-SQLITE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
- <img align="center" alt="Lucas-mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
- <img align="center" alt="Lucas-mongo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+ <img align="center" alt="Lucas-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+ <img align="center" alt="Lucas-mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 
  #### FRONT-END
   
