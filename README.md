@@ -1,5 +1,5 @@
 ## GITHUB DE LUCAS OLIVEIRA
-Desenvolvedor back-end Python Jr e estudante de tecnologia.<br>
+Desenvolvedor back-end Python e estudante de tecnologia.<br>
 Aqui você confere todos os meus projetos e arquivos de estudos.
 <br>
 <hr>
