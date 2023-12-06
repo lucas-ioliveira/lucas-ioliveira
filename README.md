@@ -10,7 +10,7 @@ Aqui você confere todos os meus projetos e arquivos de estudos.
 - São Paulo, SP - Brasil <br>
 - 🎓 Estudante de Tecnologia na UNICID - Análise de Desenvolvimento de Sistemas (atualmente cursando)<br> 
 - 💻 Atualmente trabalhando como desenvolvedor Python Jr na OnGame Entretenimento<br>
-- 🎓 Estudando JavaScript(NodeJs) com foco em desenvolvimento back-end.
+- 🎓 Estudando Kotlin com foco em desenvolvimento back-end/mobile.
 <br> 
 
 <hr>
