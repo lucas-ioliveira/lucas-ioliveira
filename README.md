@@ -18,13 +18,13 @@ Aqui você confere todos os meus projetos e arquivos de estudos.
 ### REPOSITÓRIOS EM DESTAQUES:
 
 <!-- REPO-POST-LIST:START -->
-#### Projeto back-end em Python com framework Django
+#### Projeto em Python com framework Django
 
 - [Agenda de contatos - Framework Django](https://github.com/lucas-ioliveira/agenda_contatos_django)
 - [Tec Blog - Framework Django](https://github.com/lucas-ioliveira/project_tec_blog)
 - [My Finance - Framework Django](https://github.com/lucas-ioliveira/my_finance_v2/tree/developer)
 
-#### Projeto back-end em Python com framework Django Rest
+#### Projeto back-end em Python com Django Rest framework
   
 - [Park Easy - Django Rest Framework ](https://github.com/lucas-ioliveira/park_easy/tree/development)
 
