@@ -18,6 +18,11 @@ Aqui você confere todos os meus projetos e arquivos de estudos.
 ### REPOSITÓRIOS EM DESTAQUES:
 
 <!-- REPO-POST-LIST:START -->
+#### Testes de código em processos seletivos
+
+- [Corpsystem - Django Rest Framework/ Vue 3](https://github.com/lucas-ioliveira/corpsystem_test)
+- [Minehr - Django Rest Framework](https://github.com/lucas-ioliveira/minehr_test)
+
 #### Projeto em Python com framework Django
 
 - [Agenda de contatos - Framework Django](https://github.com/lucas-ioliveira/agenda_contatos_django)
