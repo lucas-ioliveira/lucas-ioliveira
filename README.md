@@ -6,10 +6,10 @@ Aqui você confere todos os meus projetos e arquivos de estudos.
 
 ### SOBRE MIM:
 
-- 26 anos<br>
+- 27 anos<br>
 - São Paulo, SP - Brasil <br>
-- 🎓 Estudante de Tecnologia na UniCesumar - Análise de Desenvolvimento de Sistemas (atualmente cursando)<br> 
-- 💻 Atualmente trabalhando como desenvolvedor Python Jr na OnGame Entretenimento<br>
+- 🎓 Estudante de Tecnologia na Cruzeiro do Sul Virtual - Análise de Desenvolvimento de Sistemas (atualmente cursando)<br> 
+- 💻 Atualmente trabalhando como desenvolvedor Back-End Python Jr na Corpsystem Soluções em TI<br>
 - 🎓 Estudando NodeJS com foco em ampliar minhas habilidades em back-end.
 <br> 
 
