@@ -31,7 +31,7 @@ Aqui você confere todos os meus projetos e arquivos de estudos.
 
 #### Projeto back-end em Python com Django Rest framework
   
-- [Park Easy - Django Rest Framework ](https://github.com/lucas-ioliveira/park_easy/tree/development)
+- [Park Easy - Django Rest Framework ](https://github.com/lucas-ioliveira/park_easy)
 
 
 #### Projetos back-end em Python com o framework FastAPI
