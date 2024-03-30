@@ -22,12 +22,12 @@ Aqui você confere todos os meus projetos e arquivos de estudos.
 
 - [Corpsystem - Django Rest Framework/ Vue 3](https://github.com/lucas-ioliveira/corpsystem_test)
 - [Minehr - Django Rest Framework](https://github.com/lucas-ioliveira/minehr_test)
+- [Tec Blog - Framework Django](https://github.com/lucas-ioliveira/project_tec_blog)
 
 #### Projeto em Python com framework Django
 
 - [Agenda de contatos - Framework Django](https://github.com/lucas-ioliveira/agenda_contatos_django)
-- [Tec Blog - Framework Django](https://github.com/lucas-ioliveira/project_tec_blog)
-- [My Finance - Framework Django](https://github.com/lucas-ioliveira/my_finance_v2/tree/developer)
+- [My Finance - Framework Django](https://github.com/lucas-ioliveira/my_finance)
 
 #### Projeto back-end em Python com Django Rest framework
   
