@@ -10,7 +10,7 @@ Aqui você confere todos os meus projetos e arquivos de estudos.
 - São Paulo, SP - Brasil <br>
 - 🎓 Estudante de Tecnologia na Cruzeiro do Sul Virtual - Análise de Desenvolvimento de Sistemas (atualmente cursando)<br> 
 - 💻 Atualmente trabalhando como desenvolvedor Back-End Python Jr na Corpsystem Soluções em TI<br>
-- 🎓 Estudando NodeJS com foco em ampliar minhas habilidades em back-end.
+- 🎓 Estudando C# com foco em ampliar minhas habilidades em back-end.
 <br> 
 
 <hr>
