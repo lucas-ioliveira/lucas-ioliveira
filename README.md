@@ -72,6 +72,7 @@ Aqui você confere todos os meus projetos e arquivos de estudos.
 <img align="center" alt="Lucas-django"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
 <img align="center" alt="Lucas-django-rest"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg"/>
 <img align="center" alt="Lucas-fastapi"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
+<i align="center" height="30" width="40" class="devicon-djangorest-line-wordmark"></i>
 </div>
 
 #### BANCO DE DADOS
