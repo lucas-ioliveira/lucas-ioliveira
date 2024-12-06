@@ -26,7 +26,7 @@ Aqui você confere todos os meus projetos e arquivos de estudos.
 #### Projeto em Python com framework Django
 
 - [Todo List - Framework Django](https://github.com/lucas-ioliveira/to_do_list_django)
-- [My Finance - Framework Django](https://github.com/lucas-ioliveira/my_finance)
+- [My Finance - Framework Django](https://github.com/lucas-ioliveira/my-finance/tree/main)
 - [Healing - Framework Django](https://github.com/lucas-ioliveira/pystack_week_10)
 
 #### Projeto back-end em Python com Django Rest framework
