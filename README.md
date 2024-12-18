@@ -8,7 +8,7 @@ Aqui você confere todos os meus projetos e arquivos de estudos.
 
 - 27 anos<br>
 - São Paulo, SP - Brasil <br>
-- 🎓 Estudante de Tecnologia na Cruzeiro do Sul Virtual - Análise de Desenvolvimento de Sistemas (atualmente cursando)<br> 
+- 🎓 Graduado em Análise de Desenvolvimento de Sistemas<br>
 - 💻 Atualmente trabalhando como desenvolvedor FullStack na Tec2Cloud alocado no cliente Grupo Mast - Saúde e segurança do trabalho<br>
 <br> 
 
