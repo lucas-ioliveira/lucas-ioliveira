@@ -38,7 +38,6 @@ Aqui você confere todos os meus projetos e arquivos de estudos.
 
 - [API Gerador de senhas fortes - FastAPI ](https://github.com/lucas-ioliveira/gerador_senhas_fast_api)
 - [API- Sistema de batalhas de pokemons - FastAPI](https://github.com/lucas-ioliveira/pokemon_battle_fast_api)
-- [API- sistema de autenticação de usuários - FastAPI](https://github.com/lucas-ioliveira/fast_api_autenticacao)
 
 
 #### Projetos em Python 
