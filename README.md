@@ -21,23 +21,23 @@ Aqui você confere todos os meus projetos e arquivos de estudos.
 
 - [Corpsystem - Django Rest Framework/ Vue 3](https://github.com/lucas-ioliveira/corpsystem_test)
 - [Minehr - Django Rest Framework](https://github.com/lucas-ioliveira/minehr_test)
-- [Tec Blog - Framework Django](https://github.com/lucas-ioliveira/project_tec_blog)
+- [OnGame - Framework Django](https://github.com/lucas-ioliveira/project_tec_blog)
 
 #### Projeto em Python com framework Django
 
-- [Todo List - Framework Django](https://github.com/lucas-ioliveira/to_do_list_django)
-- [My Finance - Framework Django](https://github.com/lucas-ioliveira/my-finance/tree/main)
-- [Healing - Framework Django](https://github.com/lucas-ioliveira/pystack_week_10)
+- [Todo List](https://github.com/lucas-ioliveira/to_do_list_django)
+- [My Finance](https://github.com/lucas-ioliveira/my-finance/tree/main)
+- [Healing](https://github.com/lucas-ioliveira/pystack_week_10)
 
 #### Projeto back-end em Python com Django Rest framework
   
-- [Park Easy - Django Rest Framework ](https://github.com/lucas-ioliveira/park_easy)
+- [Park Easy](https://github.com/lucas-ioliveira/park_easy)
 
 
 #### Projetos back-end em Python com o framework FastAPI
 
-- [API Gerador de senhas fortes - FastAPI ](https://github.com/lucas-ioliveira/gerador_senhas_fast_api)
-- [API- Sistema de batalhas de pokemons - FastAPI](https://github.com/lucas-ioliveira/pokemon_battle_fast_api)
+- [API - Gerador de senhas fortes](https://github.com/lucas-ioliveira/gerador_senhas_fast_api)
+- [API - Sistema de batalhas de pokemons](https://github.com/lucas-ioliveira/pokemon_battle_fast_api)
 
 
 #### Projetos em Python 
