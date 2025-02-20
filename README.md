@@ -48,7 +48,6 @@ Aqui você confere todos os meus projetos e arquivos de estudos.
 #### Projetos front-end em Html 5 e Css 3
 
 - [StarFlix](https://github.com/lucas-ioliveira/star_flix)
-- [Recurso Digital](https://github.com/lucas-ioliveira/recurso_digital)
 <!-- REPO-POST-LIST:END -->
 <hr>
 
