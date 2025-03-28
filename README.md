@@ -6,7 +6,7 @@ Aqui você confere todos os meus projetos e arquivos de estudos.
 
 ### SOBRE MIM:
 
-- 27 anos<br>
+- 28 anos<br>
 - São Paulo, SP - Brasil <br>
 - 🎓 Graduado em Análise de Desenvolvimento de Sistemas<br>
 - 💻 Atualmente trabalhando como desenvolvedor FullStack na Tec2Cloud alocado no cliente Grupo Mast - Saúde e segurança do trabalho<br>
