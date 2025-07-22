@@ -36,7 +36,7 @@ Aqui você confere todos os meus projetos e arquivos de estudos.
 
 #### Projetos back-end em Python com o framework FastAPI
 
-- [API - Gerador de senhas fortes](https://github.com/lucas-ioliveira/gerador_senhas_fast_api)
+- [API - Sistema de pedidos de delivery](https://github.com/lucas-ioliveira/ordering_system)
 - [API - Sistema de batalhas de pokemons](https://github.com/lucas-ioliveira/pokemon_battle_fast_api)
 
 
