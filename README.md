@@ -25,7 +25,7 @@ Aqui você confere todos os meus projetos e arquivos de estudos.
 
 #### Projeto em Python com framework Django
 
-- [TakFlow](https://github.com/lucas-ioliveira/task_flow)
+- [TaskFlow](https://github.com/lucas-ioliveira/task_flow)
 - [My Finance](https://github.com/lucas-ioliveira/my-finance/tree/main)
 - [Healing](https://github.com/lucas-ioliveira/pystack_week_10)
 
