@@ -9,7 +9,8 @@ Aqui você confere todos os meus projetos e arquivos de estudos.
 - 28 anos<br>
 - São Paulo, SP - Brasil <br>
 - 🎓 Graduado em Análise de Desenvolvimento de Sistemas<br>
-- 💻 Atualmente trabalhando como desenvolvedor Python na Tec2Cloud alocado no cliente Grupo Mast - Saúde e segurança do trabalho<br>
+- 🎓 Pós-graduando em Cloud & Ai Devops<br>
+- 💻 Atualmente trabalhando como desenvolvedor Python pleno na V.tal rede neutra de telecomunicações.<br>
 <br> 
 
 <hr>
