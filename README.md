@@ -38,13 +38,10 @@ Aqui você confere todos os meus projetos e arquivos de estudos.
 #### Projetos back-end em Python com o framework FastAPI
 
 - [API - Sistema de pedidos de delivery](https://github.com/lucas-ioliveira/ordering_system)
-- [API - Sistema de batalhas de pokemons](https://github.com/lucas-ioliveira/pokemon_battle_fast_api)
-
 
 #### Projetos em Python 
 
 - [Automação de tarefa ](https://github.com/lucas-ioliveira/automation_windows)
-
 
 #### Projetos front-end em Html 5 e Css 3
 
