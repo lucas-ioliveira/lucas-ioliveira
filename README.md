@@ -20,6 +20,7 @@ Aqui você confere todos os meus projetos e arquivos de estudos.
 <!-- REPO-POST-LIST:START -->
 #### Testes de código em processos seletivos
 
+- [Nava (Santander) - RPA Challenge](https://github.com/lucas-ioliveira/nava_rpa_challenge/)
 - [Corpsystem - Django Rest Framework/ Vue 3](https://github.com/lucas-ioliveira/corpsystem_test)
 - [Minehr - Django Rest Framework](https://github.com/lucas-ioliveira/minehr_test)
 - [OnGame - Framework Django](https://github.com/lucas-ioliveira/project_tec_blog)
